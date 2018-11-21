@@ -13,7 +13,7 @@ class App extends Component {
     name:'C#',
       author: 'Mosh Hamadini',
       price:120,
-      id:1
+      id:2
   },
 {
   name: 'python',
