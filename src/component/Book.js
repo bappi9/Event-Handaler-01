@@ -14,6 +14,7 @@ class Book extends Component{
                 <span><i onClick={()=>this.props.deleteHandeler(this.props.book.id)} className="fa fa-trash"></i></span>
                 </div>
                
+               
             </li>
         )
     }
